@@ -19,8 +19,8 @@ A set of handy scripts for automating daily tasks on systems
 <p>server_status.sh is a tool used to quickly pull up important server stats</p>
 
 ### Server stats included in output
-Total CPU usage
-Total memory usage (Free vs Used including percentage)
-Total disk usage (Free vs Used including percentage)
-Top 5 processes by CPU usage
-Top 5 processes by memory usage
+- Total CPU usage
+- Total memory usage (Free vs Used including percentage)
+- Total disk usage (Free vs Used including percentage)
+- Top 5 processes by CPU usage
+- Top 5 processes by memory usage
