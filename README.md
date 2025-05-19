@@ -4,8 +4,8 @@ A set of handy scripts for automating daily tasks on systems
 
 ## Scripts
 
-- [log_arghive.sh] (#Log Archive)
-- [server-status.sh] (#Server Status)
+- [log_arghive.sh](#Log Archive)
+- [server-status.sh](#Server Status)
 
 ## Log Archive
 <p>log_archive.sh is a script that allows you to compress log desired log files into a zip file. This is great for cleanup and reducing space on your server.</p>
