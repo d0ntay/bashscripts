@@ -5,7 +5,8 @@ A set of handy scripts for automating daily tasks on systems
 ## Scripts
 
 - [log_arghive.sh](#Log-Archive)
-- [server-status.sh](#Server-Status)
+- [server_status.sh](#Server-Status)
+- [nginx_log_analyser.sh](#nginx-log-analyser)
 
 ## Log Archive
 <p>log_archive.sh is a script that allows you to compress log desired log directory into a zip file. This is great for cleanup and reducing space on your server.</p>
@@ -24,3 +25,12 @@ A set of handy scripts for automating daily tasks on systems
 - Total disk usage (Free vs Used including percentage)
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
+
+## Nginx Log Analyser
+<p>Nginx_log_analyser.sh is a tool for parsing through your webservers logs to see important stats.</p>
+
+### Log stats included in output
+- Top 5 IP addresses with the most requests
+- Top 5 most requested paths
+- Top 5 response status codes
+- Top 5 user agents
